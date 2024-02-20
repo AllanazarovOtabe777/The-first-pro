@@ -3,7 +3,7 @@ we have many changes so if you want to do something you have a chance to do it.
 
 ----
 >You are very pretty
-
+I know everything which are chenged, so it's so celver for everything
 >> Har doim active bo'lish mumkin
 
 <<<<<<< HEAD
